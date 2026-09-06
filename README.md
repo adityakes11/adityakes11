@@ -135,6 +135,8 @@ Python-based news application/project.
 
 ---
 
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
