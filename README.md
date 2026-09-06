@@ -140,6 +140,8 @@ Python-based news application/project.
 
 ---
 
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -156,14 +158,13 @@ Python-based news application/project.
   />
 
   <img
-    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/adityakes11/adityakes11/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
   />
 
 </picture>
 
 </p>
----
 
 ## 💡 Currently Learning
 
