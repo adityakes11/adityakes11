@@ -1,4 +1,4 @@
-name: Generate Snake Contribution Graph
+name: Generate Snake
 
 on:
   schedule:
@@ -10,11 +10,11 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
 
     steps:
