@@ -123,7 +123,7 @@ Python-based news application/project.
 </p>
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Streak 
 
 <p align="center">
 
