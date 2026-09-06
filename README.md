@@ -140,7 +140,6 @@ Python-based news application/project.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakes11&theme=tokyo-night&hide_border=true&area=true" />
 
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
